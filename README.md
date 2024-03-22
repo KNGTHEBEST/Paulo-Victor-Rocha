@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pv_rochaa)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/trembalay_y)
 
-![Trem Bala GitHub stats](https://github-readme-stats.vercel.app/api?TremBala=anuraghazra&show_icons=true&theme=radical)
+![Trem Bala GitHub stats](https://github-readme-stats.vercel.app/api?KNGTHEBEST=anuraghazra&show_icons=true&theme=radical)
 
 
 
