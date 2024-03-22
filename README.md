@@ -20,5 +20,5 @@
 
 Focado em cyber security e estudo programação web 
 
-![Snake animation](https://github.com/KNGTHEBEST/Paulo-Victor-Rocha)
+
 
