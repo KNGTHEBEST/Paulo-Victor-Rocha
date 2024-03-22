@@ -1,3 +1,3 @@
 # Olá! Eu sou o Paulo Victor 🖐
 
-[![Blog](https://img.shields.io/website?label=TremBala.com&style=for-the-badge&url=https:PauloVictorRocha)]
+[![Blog](https://img.shields.io/website?label=PauloVictorRocha.com&style=for-the-badge&url=https:PauloVictorRocha)]
