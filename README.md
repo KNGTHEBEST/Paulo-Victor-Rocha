@@ -3,6 +3,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/TremBala)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pv_rochaa)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/trembalay_y)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/paulo-victor-rocha-566832271?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ![KNGTHEBEST GitHub stats](https://github-readme-stats.vercel.app/api?username=KNGTHEBEST&show_icons=true&theme=tokyonight)
 
